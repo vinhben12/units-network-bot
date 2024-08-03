@@ -9,11 +9,11 @@ This repository contains a Node.js application that automates transactions on th
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Nhập vào gitpot:**
 
    ```bash
-   git clone https://github.com/dante4rt/units-network-bot.git
-   cd units-network-bot
+   https://github.com/vinhben12/units-network-bot.git
+  
    ```
 
 2. **Install dependencies:**
@@ -22,9 +22,9 @@ This repository contains a Node.js application that automates transactions on th
    npm install
    ```
 
-3. **Prepare private keys:**
+3. **Chuẩn bị private keys:**
 
-   - Create or edit `privateKeys.json` to include your Ethereum private keys as an array of strings. Each private key should be enclosed in double quotes.
+   - Tạo hoặc edit `privateKeys.json` to chứa private key. Có thể dùng nhiều acc
 
    **Example `privateKeys.json` (correct format):**
    ```json
